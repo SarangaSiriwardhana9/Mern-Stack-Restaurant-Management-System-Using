@@ -1,4 +1,38 @@
-Mern-Stack-Restaurant-Management-
+# -Restaurant-Management-System-Using-Mern-Stack
+SLIIT 2nd year 2 nd semester ITP Group Project
+Resturant management system is a web-based application that allows the customer to vive avalable items  in the resturant,oder items,custamize their own package the hotel manager and staff to handle all hotel  activities online. Interactive GUI and the ability to manage various hotel bookings and rooms make this  system very flexible and convenien
+
+Integrated in SLIIT organization's private repository 
+
+Group Leader 1 - Siriwardhana E.A.L.S IT21166792(SarangaSiriwardhana9)
+
+Member 2 - Hansana K.T                IT21167850                                                                                                          
+Member 3 - Siriwardana L.H.E.R        IT21211300                                                                                                          
+Member 4 - Dhananjaya A.K.G.S         IT21387494                                                                                                          
+Member 5 - Jayaweera J.M.A.U          IT21210006                                                                                                          
+Member 6 - Weerasingha W.A.N.S        IT21183386                                                                                                          
+Member 7 - MALSHIKA A.I               IT21183218                                                                                                          
+Member 8 -Wijayawardhana G.L.C.N.D    IT21172182                                                                                                          
 
 
-Resturant management system is a web-based application that allows the customer to vive avalable items in the resturant,oder items,custamize their own package the hotel manager and staff to handle all hotel activities online. Interactive GUI and the ability to manage various hotel bookings and rooms make this system very flexible and convenien
+This project is focused on implementing a computerized system for Nugasewana, a restaurant located in Kaluthara District 
+that opened in 2020. The restaurant has gained popularity among local and foreign customers due to its commitment to 
+continuous improvement and high-quality standards in hospitality. However, the management and staff are currently 
+managing all their processes manually, such as employee management, supplier management, delivery management, and 
+financial account management, leading to inefficiencies and increased costs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
