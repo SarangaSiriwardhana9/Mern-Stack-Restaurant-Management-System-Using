@@ -1,0 +1,52 @@
+html {
+}
+
+body {
+  height: 95vh;
+}
+
+.left {
+  background-color: rgb(124, 124, 124);
+
+  width: 30%;
+
+  height: 100vh;
+
+  float: left;
+}
+
+.a {
+  text-decoration: none;
+
+  color: black;
+}
+
+.a:hover {
+  color: black;
+}
+
+h1 {
+  text-align: center;
+
+  text-decoration: none;
+}
+
+.btn {
+  font-size: 20px;
+
+  font-weight: bold;
+
+  height: 50px;
+
+  width: 300px;
+
+  margin: 3px;
+}
+
+.btn-group {
+  position: absolute;
+
+  left: 60px;
+
+  bottom: 20px;
+}
