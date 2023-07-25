@@ -1,3 +1,12 @@
+![projectOne](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/22f9128b-59f8-4188-9f3a-ffe9041d8a46)
+![Uploading 10.PNG…]()
+![Uploading 9.PNG…]()
+![Uploading 8.PNG…]()
+![Uploading 7.PNG…]()
+![Uploading 6.PNG…]()
+![Uploading 5.PNG…]()
+![Uploading 3.PNG…]()
+![Uploading 2.PNG…]()
 # -Restaurant-Management-System-Using-Mern-Stack
 SLIIT 2nd year 2 nd semester ITP Group Project
 Resturant management system is a web-based application that allows the customer to vive avalable items  in the resturant,oder items,custamize their own package the hotel manager and staff to handle all hotel  activities online. Interactive GUI and the ability to manage various hotel bookings and rooms make this  system very flexible and convenien
