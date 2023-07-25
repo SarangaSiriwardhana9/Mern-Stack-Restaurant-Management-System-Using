@@ -30,10 +30,12 @@ Here are some screesnshots about this project.....!
 ![projectOne](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/22f9128b-59f8-4188-9f3a-ffe9041d8a46)
 ![2](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/e8834d87-bc7f-40ea-960e-b6097eeba4e6)
 
-![7](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/74527e70-abdb-49e0-88e7-0bb86c86ab41)
+
 ![6](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/4d78c92f-01ee-47b5-870f-963eeda4c706)
 
 ![10](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/1dd74979-2b1f-4779-979a-675d0eaafde2)
+![7](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/74527e70-abdb-49e0-88e7-0bb86c86ab41)![8](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/168b5579-5565-453c-b171-4e8bbdcd43ae)
+![9](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/ca7e8d78-d763-4bb5-9472-e7ca67563fbd)
 
 
 
