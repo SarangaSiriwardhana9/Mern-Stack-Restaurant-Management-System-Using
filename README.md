@@ -27,7 +27,7 @@ financial account management, leading to inefficiencies and increased costs
 
 Here are some screesnshots about this project.....!
 
-| Image 1 | Image 2 |
+|  |  |
 |---------|---------|
 | ![projectOne](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/22f9128b-59f8-4188-9f3a-ffe9041d8a46) | ![2](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/e8834d87-bc7f-40ea-960e-b6097eeba4e6) |
 | ![6](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/4d78c92f-01ee-47b5-870f-963eeda4c706) | ![10](https://github.com/SarangaSiriwardhana9/Mern-Stack-Restaurant-Management-System-Using/assets/99233703/1dd74979-2b1f-4779-979a-675d0eaafde2) |
