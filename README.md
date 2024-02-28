@@ -4,7 +4,7 @@
 
 # -Restaurant-Management-System-Using-Mern-Stack
 SLIIT 2nd year 2 nd semester ITP Group Project
-Resturant management system is a web-based application that allows the customer to vive avalable items  in the resturant,oder items,custamize their own package the hotel manager and staff to handle all hotel  activities online. Interactive GUI and the ability to manage various hotel bookings and rooms make this  system very flexible and convenien
+Resturant management system is a web-based application that allows the customer to vive avalable items  in the resturant,oder items,custamize their own package the hotel manager and staff to handle all hotel  activities online. Interactive GUI and the ability to manage various activities.(This repository contains only the user management and user dashboard parts)
 
 Integrated in SLIIT organization's private repository 
 
